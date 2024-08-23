@@ -6,6 +6,7 @@ public class Escape {
         System.out.println("C:\\documents\\saman"); //It will show only one backslash
         System.out.println("Hello \nSamandeep"); //I want to see hello and samandeep in next line --> backslash n will help me with it, it's like enter in word
         System.out.println("Hello\tpaaji"); // \t adds a tab
+        System.out.println("I love you R\baman"); // inserts a backspace in the text at that point
 
     }
 }

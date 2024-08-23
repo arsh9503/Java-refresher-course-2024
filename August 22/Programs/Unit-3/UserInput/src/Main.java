@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
@@ -23,8 +24,13 @@ public class Main {
         int age = scanner.nextInt(); //We didn't defined the value using int literal this time
         System.out.println("Your age is "+ age);
 
-
-
-
+        // If you try to give a string value to a int variable, you will get a compile time error
+        try {
+            System.out.print("Enter a number of your choice: ");
+            int num = scanner.nextInt();
+            System.out.println("num = " + num);
+        } catch(InputMismatchException e){
+            System.out.println("Wrong input");
+        }
     }
 }

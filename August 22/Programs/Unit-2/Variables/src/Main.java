@@ -4,7 +4,7 @@ public class Main {
         int yourNumber; //declaration
         yourNumber = 865;
         System.out.println(yourNumber);
-        yourNumber = 45;
+        yourNumber = 45; // 45 is integer literal
         System.out.println(yourNumber);
 
         boolean isOld = false;
@@ -12,6 +12,8 @@ public class Main {
 
         float myFloat = 5.0f; //By default, it treats it as double use trailing f to ensure it is stored and treated as a float
         System.out.println(myFloat);
+
+//        float newFloat = "Hello brother"; //it should have a float literal
 
         double myDouble = 6.3784239;
         System.out.println(myDouble);
@@ -24,6 +26,14 @@ public class Main {
         // variable name is technically called identifer
         int $age = 12; //identifiers are case sensitive, and it cannot start with a number. should start with alphabet, dollar, or underscore
         System.out.println($age);
+
+        //The values are called literal
+
+        char myChoice = 'A'; //defined using single quotes
+        System.out.println(myChoice);
+
+        String option = ""; //string can be empty bruhh
+        System.out.println(option);
 
 
 

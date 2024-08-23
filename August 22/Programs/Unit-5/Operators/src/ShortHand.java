@@ -17,5 +17,7 @@ public class ShortHand {
         int num4 = scanner.nextInt();
         a += num4;
         System.out.println(a);
+
+        //Applicable for all the arithmetic operators
     }
 }

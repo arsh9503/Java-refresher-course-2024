@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in); //Scanner class came in java 5 --> Right mei object hota hai, left mei reference
+        System.out.print("Please enter your name: ");
         String name = scanner.nextLine(); // Will take string input from the terminal
         System.out.println("Welcome to this course, " + name);
 
@@ -14,6 +15,10 @@ public class Main {
         scanner.useDelimiter("@");
         String lastName = scanner.next();
         System.out.println("Your last name is " + lastName);
+
+        System.out.printf("Hello brother %s", "Sandhu"); //It is similar to print --> just provides the benefit of using template literals
+
+
 
     }
 }

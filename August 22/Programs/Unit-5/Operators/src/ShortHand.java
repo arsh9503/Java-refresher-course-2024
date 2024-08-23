@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ShortHand {
     public static void main(String[] args) {
-        //ShortHand Operators OR Augmented assignment operators
+        //Shorthand Operators OR Augmented assignment operators
         int a = 5;
         Scanner scanner = new Scanner(System.in);
         int num1 = scanner.nextInt();

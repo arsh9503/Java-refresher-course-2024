@@ -19,6 +19,8 @@ public class Main {
         String wishes = "Good Morning Samandeep Singh"; //You need to use double quotes for string
         System.out.println(wishes);
 
+        System.out.println(wishes.toUpperCase());
+
 
     }
 }

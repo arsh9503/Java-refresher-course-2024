@@ -35,6 +35,12 @@ public class Main {
         String option = ""; //string can be empty bruhh
         System.out.println(option);
 
+        try {
+            int[] myArr = {1,4,5,6,3};
+            System.out.println(myArr[8]);
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("Array out of bounds: " + e.getMessage());
+        }
 
 
     }

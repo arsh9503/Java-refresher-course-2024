@@ -12,11 +12,17 @@ public class Main {
         System.out.println("Your first name is " + firstName);
 
         //Lets not use the default delimiter
-        scanner.useDelimiter("@");
+//        scanner.useDelimiter("@");
         String lastName = scanner.next();
         System.out.println("Your last name is " + lastName);
 
         System.out.printf("Hello brother %s", "Sandhu"); //It is similar to print --> just provides the benefit of using template literals
+
+        // Taking an integer input
+        System.out.print("Please enter your age: ");
+        int age = scanner.nextInt(); //We didn't defined the value using int literal this time
+        System.out.println("Your age is "+ age);
+
 
 
 

@@ -21,10 +21,10 @@ public class Main {
 
         // Taking an integer input
         System.out.print("Please enter your age: ");
-        int age = scanner.nextInt(); //We didn't defined the value using int literal this time
+        int age = scanner.nextInt(); //We didn't define the value using int literal this time
         System.out.println("Your age is "+ age);
 
-        // If you try to give a string value to a int variable, you will get a compile time error
+        // If you try to give a string value to an int variable, you will get a compile time error
         try {
             System.out.print("Enter a number of your choice: ");
             int num = scanner.nextInt();

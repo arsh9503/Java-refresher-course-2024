@@ -21,6 +21,11 @@ public class Main {
 
         System.out.println(wishes.toUpperCase());
 
+        // variable name is technically called identifer
+        int $age = 12; //identifiers are case sensitive, and it cannot start with a number. should start with alphabet, dollar, or underscore
+        System.out.println($age);
+
+
 
     }
 }

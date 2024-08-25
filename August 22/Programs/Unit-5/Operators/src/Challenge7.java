@@ -7,6 +7,6 @@ public class Challenge7 {
         System.out.print("Enter the temperature in fahrenheit: ");
         float tempFahrenheit = scanner.nextFloat();
 
-        System.out.printf("%.1f °F in celsius is %.1f °C\n", tempFahrenheit, (tempFahrenheit-32)*5/9);
+        System.out.printf("%.1f°F in celsius is %.1f°C\n", tempFahrenheit, (tempFahrenheit-32)*5/9);
     }
 }

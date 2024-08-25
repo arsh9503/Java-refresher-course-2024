@@ -31,5 +31,13 @@ public class UnaryOperators {
         int c = 20;
         System.out.println(++c); //Value of c was incremented before printing
 
+        int p = 7;
+        System.out.println(--p); //The value of p would be 6 here as we are asking the compiler to decrease the value and then use in the statement
+        System.out.println(); //The value of p would still be 6
+
+        System.out.println(p--); //The value of p would be printed 6 and after being used here, it will be decremented by 1
+        System.out.println(p); //The value will be 5 here
+
+
     }
 }

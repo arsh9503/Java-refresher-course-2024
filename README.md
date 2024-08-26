@@ -1,3 +1,3 @@
 ## Best Java Course
-- Course files for students
+- Course files for new students
 - Instructor: Samandeep Singh Sandhu

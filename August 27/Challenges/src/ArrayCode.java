@@ -10,6 +10,7 @@ public class ArrayCode {
         myArray[3] = 20;
         myArray[4] = 25;
 //        System.out.println(Arrays.toString(myArray));
+//        Printing array elements to the terminal
         int count = 0;
         while(count<myArray.length){
             System.out.println(myArray[count]);

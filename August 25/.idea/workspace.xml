@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ead0d044-1fda-41dc-8a27-f8ccdf26befd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Java refresher course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August 22/Programs/Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August 22/Programs/Unit-2/Unit-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August 22/Programs/Unit-3/Challenge2/Challenge4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August 22/Programs/Unit-4/Unit-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August 22/Programs/Unit-5/Unit-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/.idea/Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/Unit-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../August24/Programs/Unit-6/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arsh9503"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/samandeep007/Java-refresher-course-2024.git",
+    "accountId": "10d37f76-caea-4160-b415-54ca32cd3735"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2lAzRzhZX4KzTQR18owkVMb3LD5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/My projects/Java refresher course/August 25"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead0d044-1fda-41dc-8a27-f8ccdf26befd" name="Changes" comment="" />
+      <created>1724637664302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724637664302</updated>
+    </task>
+    <servers />
+  </component>
+</project>

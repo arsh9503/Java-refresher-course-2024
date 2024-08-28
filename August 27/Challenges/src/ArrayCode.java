@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class ArrayCode {
     public static void main(String[] args1){
+        //data_type[] reference_name = new data_type[array_size];
         int[] myArray = new int[5];
         myArray[0] = 10;
         myArray[1] = 15;

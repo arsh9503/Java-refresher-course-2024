@@ -19,6 +19,10 @@ public class LinkedList {
          printListRecursively(head);
     }
 
+    public boolean searchList(int value){
+        return searchListRecursively(head, value);
+    }
+
     public void add(int data) {
         Node newNode = new Node(data); // Create a new node
         if (head == null) {
@@ -32,6 +36,12 @@ public class LinkedList {
         }
     }
 
+    public void addAtBeginning(int data){
+        Node temp = head;
+        head = new Node(data);
+        head.next = temp;
+    }
+
     private void printListRecursively(Node current){
         if(current==null){
             return;
@@ -39,5 +49,16 @@ public class LinkedList {
         System.out.println("The value is " + current.data);
         printListRecursively(current.next);
     }
+
+    private boolean searchListRecursively(Node current, int value){
+        if(current == null){
+            return false;
+        }
+        if(current.data == value){
+            return true;
+        }
+        return searchListRecursively(current.next, value);
+    }
+
 
 }

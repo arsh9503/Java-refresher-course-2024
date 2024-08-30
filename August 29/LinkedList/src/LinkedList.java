@@ -46,7 +46,7 @@ public class LinkedList {
         if(current==null){
             return;
         }
-        System.out.println("The value is " + current.data);
+        System.out.print(current.data + " ");
         printListRecursively(current.next);
     }
 
@@ -58,6 +58,20 @@ public class LinkedList {
             return true;
         }
         return searchListRecursively(current.next, value);
+    }
+
+    public void reverseList(){
+        Node prev = null;
+        Node current = head;
+        Node next = null;
+        while(current!=null){
+            next = current.next;
+            current.next = prev;
+            prev = current;
+            current = next;
+        }
+        head = prev;
+
     }
 
 

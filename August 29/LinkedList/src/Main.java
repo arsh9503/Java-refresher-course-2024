@@ -7,6 +7,9 @@ public class Main {
         myList.add(20);
         myList.addAtBeginning(25);
         myList.printList();
+        System.out.println();
+        myList.reverseList();
+        myList.printList();
         System.out.println(myList.searchList(13));
     }
 }
